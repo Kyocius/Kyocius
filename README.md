@@ -1,10 +1,10 @@
-### Hi there 👋
+### 同志，列宁的任务尚未完成，我辈仍需努力 👋
 
-Here are some ideas to get you started:
+- 😄 刚中考完，我很开森哦
+- 🌱 正在利用暑假学习 Kotlin Android
+- ✨ 编写一款App上架酷安
+- 💬 欢迎和我讨论，你可以在酷安上找到我 
+- 📫 微信 wukeyou56
 
-- 🌱 正在利用暑假学习Kotlin Android
-- 💬 欢迎和我讨论 
-- 📫 QQ1738435753
-- 😄 刚中考完我很开森哦
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=worri2004)](https://github.com/anuraghazra/github-readme-stats)
