@@ -10,6 +10,6 @@
 [![](https://img.shields.io/badge/IDE-Visual%20Studio%20Code-blue?&logo=visual-studio-code&logoColor=ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/IDE-Android%20Studio-brightgreen?&logo=android-studio&logoColor=#ffffff)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Android-Kotlin-blueviolet?logo=android)](https://developer.android.com)
-[![](https://img.shields.io/badge/Learn-C%23-blue)]
+![](https://img.shields.io/badge/Learn-C%23-blue)
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=worri2004&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
