@@ -1,4 +1,4 @@
-###  Go all out to be worry-less
+###  Go All Out To  Worry-Less
 
 - 🐶 在天津上学的高中生
 - 🌱 正在学习 Kotlin Android
