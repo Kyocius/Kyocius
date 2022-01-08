@@ -1,7 +1,7 @@
 #  Hi There!🌟
 #### Wubba Lubba Dub-Dub!
 
-- 🐲 My name is  `Worri` or `广津铠恩` in Chinese.
+- 🐲 My name is  `Worrix64` or `广津铠恩` in Chinese.
 - 🐶 I am currently a student from Tianjin, China.
 - 🌱 Focus on Kotlin Android 
 - 💬 CoolApk > 汕津优仁
