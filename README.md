@@ -1,10 +1,14 @@
+<p align="center">
+<img src="/header.svg" align="center" />
+</p>
+
 #  Hi There!🌟
 #### Wubba Lubba Dub-Dub!
 
 - 🐲 My name is  `Worrix` or `广津铠恩` in Chinese.
 - 🐶 I am currently a student from Tianjin, China.
-- 🌱 Focus on Kotlin Android 
-- 💬 CoolApk > 汕津优仁
+- 🌱 Focus on Kotlin Android & Compose.
+- 💬 TencentQQ > `1738435753`. Welcome to chat with me!
 
 ### Platform & Tools
 
