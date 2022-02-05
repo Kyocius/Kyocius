@@ -5,10 +5,10 @@
 #  Hi There!🌟
 #### Wubba Lubba Dub-Dub!
 
-- 🐲 My name is  `Worrix` or `广津铠恩` in Chinese.
+- 🐲 My name is  `Hirotsu Yoroion` or `广津铠恩` in Chinese.
 - 🐶 I am currently a student from Tianjin, China.
 - 🌱 Focus on Kotlin Android & Compose.
-- 💬 TencentQQ > `1738435753`. Welcome to chat with me!
+- 💬 QQ `1738435753`. Welcome to chat with me!
 
 ### Platform & Tools
 
