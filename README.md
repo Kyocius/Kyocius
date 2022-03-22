@@ -4,7 +4,7 @@
 
 #  Hi There!🌟
 
-- 🐲 My name is  `Yoroion Hirotsu` or `广津铠恩` in Chinese.
+- 🐲 My name is  `Yoroion Hirotsu` or `广津铠恩/広津鎧恩` in Chinese.
 - 🐶 I am currently a **student** from Tianjin, China.
 - 🌱 Learning **C#** and **Kotlin** as hobby.
 - 💬 QQ `1738435753`.
