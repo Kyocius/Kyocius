@@ -11,7 +11,7 @@
 
 ### 🛠️Platform & Tools
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,ts,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,js,visualstudio,vscode)](https://skillicons.dev)
 
 ### 📚Language Using
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion)](https://github.com/anuraghazra/github-readme-stats)
