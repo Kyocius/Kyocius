@@ -3,13 +3,15 @@
 </p>
 
 #  Hi There!🌟
-
+Yoroion でせ
 - 🐲 My name is  **Yoroion Hirotsu** or **广津铠恩/広津鎧恩** in Chinese.
-- 🐶 Currently a **student** from Tianjin, China.
-- 🌱 Mainly work on C# and Kotlin. Also taste other programming languages which are interestring.
+- 🐶 Currently a student from Tianjin, China.
+- 🌱 Mainly work on **C#** and **Kotlin**. Also taste other programming languages which are interesting.
 
 ### 📫 Reach me
-
+- Twitter: [@yoroion](https://twitter.com/yoroion)
+- Telegram: [Yoroion](https://t.me/Yoroion)
+- QQ: 1738435753 √
 
 ### 🛠️Platform & Tools
 
