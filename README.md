@@ -13,9 +13,9 @@
 - Telegram: [Yoroion](https://t.me/Yoroion)
 - QQ: 1738435753 √
 
-### 🛠️Platform & Tools
+### 🛠️ Platform & Tools
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,js,visualstudio,vscode)](https://skillicons.dev)
 
-### 📚Language Using
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion)](https://github.com/anuraghazra/github-readme-stats)
+### 📚 Language Using
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
