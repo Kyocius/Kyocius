@@ -10,9 +10,10 @@
 - 📖 Still learning Japanese.
 
 ### 📫 Reach me
-- Twitter: [@yoroion](https://twitter.com/yoroion)
+Only online at weekends and holiday. 
+- Twitter: [yoroion](https://twitter.com/yoroion)
 - Telegram: [Yoroion](https://t.me/Yoroion)
-- QQ: [1738435753](http://wpa.qq.com/msgrd?v=3&uin=1738435753&site=qq&menu=yes)
+- QQ: 1738435753
 
 ### 🛠️ Platform & Tools
 
