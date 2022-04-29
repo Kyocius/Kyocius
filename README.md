@@ -6,8 +6,8 @@
 ここは鎧恩です！
 - 🐲 **広津鎧恩(广津铠恩)** or **Yoroion Hirotsu** are names I always use.
 - 🐶 Currently a senior high school student from Tianjin, China.
-- 🌱 Mainly work on **C#** and **Kotlin**. Also taste other programming languages which are interesting. ~~Java/Go sucks~~
-- 📺 Fan of Japanese Animes and novels.
+- 🌱 Mainly work on **C#** and **Kotlin**. Also taste other languages which are interesting. ~~Java/Go sucks~~
+- 📖 Still learning Japanese.
 
 ### 📫 Reach me
 - Twitter: [@yoroion](https://twitter.com/yoroion)
