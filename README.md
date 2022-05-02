@@ -9,13 +9,13 @@
 - 🌱 Mainly work on **C#** and **Kotlin**. Also taste other languages which are interesting. ~~Java/Go sucks~~
 - 📖 Still learning Japanese.
 
-### 📫 Reach me
+### 📫 Reach Me
 Only online at weekends and holiday. 
 - Twitter: [yoroion](https://twitter.com/yoroion)
 - Telegram: [Yoroion](https://t.me/Yoroion)
 - QQ: 1738435753
 
-### 🛠️ Platform & Tools
+### 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,js,svelte)](https://skillicons.dev)
 
