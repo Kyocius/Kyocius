@@ -18,9 +18,9 @@
 
 ### 📫 联系我
 通常在周末和节假日在线，欢迎找我聊天🎉
-- 推特： [yoroion](https://twitter.com/yoroion)
-- 电报： [Yoroion](https://t.me/Yoroion)
-- QQ： 1738435753
+- 推特：[yoroion](https://twitter.com/yoroion)
+- 电报：[Yoroion](https://t.me/Yoroion)
+- QQ：1738435753
 
 ### 🛠️ 技术栈
 
