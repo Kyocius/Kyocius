@@ -27,4 +27,4 @@
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,js,svelte)](https://skillicons.dev)
 
 ### 📚 语言情况
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
