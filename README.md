@@ -2,29 +2,17 @@
 <img src="/header.svg" align="center" />
 </p>
 
-#  你好呀!🌟
-ここは鎧恩です！  [English](./README_en.md)
-- 🌸 **広津鎧恩(广津铠恩)** 和 **Yoroion Hirotsu** 是我经常使用的名字
+# 🎉 Hi There 
+Here is an amateurish developer code just for fun, interested in C# and Kotlin. Also a senior high school student from Tianjin, China.
 
-- 📖 目前是一名在天津上学的**高中生**
+### 📫 Contact
+- Twitter: [yoroion](https://twitter.com/yoroion)
+- Telegram: [Yoroion](https://t.me/Yoroion)
+- QQ: 1738435753
 
-- ❤️ 主要使用 **C#** 和 **Kotlin** 语言，也尝试其它有趣的语言和框架 ~~Java/Go无脑黑~~
-
-- 🇯🇵 尝试学习霓虹语
-
-- 📺 会看当季的新番 ~~垃圾二刺螈~~
-
-- 🏀 投篮不太准的得分后卫
-
-### 📫 联系我
-通常在周末和节假日在线，欢迎找我聊天🎉
-- 推特：[yoroion](https://twitter.com/yoroion)
-- 电报：[Yoroion](https://t.me/Yoroion)
-- QQ：1738435753
-
-### 🛠️ 技术栈
+### 🛠️ Skills
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,js,svelte)](https://skillicons.dev)
 
-### 📚 语言情况
+### 📚 Languages
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
