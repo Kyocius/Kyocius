@@ -3,7 +3,7 @@
 </p>
 
 # 🎉 Hi There 
-Here is an amateurish developer code just for fun, interested in C# and Kotlin. Also a senior high school student from Tianjin, China.
+Here is an amateurish developer coding just for fun, interested in C# and Kotlin. Also a senior high school student from Tianjin, China.
 
 ### 📫 Contact
 - Twitter: [yoroion](https://twitter.com/yoroion)
