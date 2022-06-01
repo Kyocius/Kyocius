@@ -15,12 +15,12 @@
 
 ### ⚔️ Works
 
-| Project                                                      | Function                               | Language | Framework |
-| ------------------------------------------------------------ | -------------------------------------- | :------: | :-------: |
-| [Erisu](https://github.com/Yoroion/Erisu)                    | Minecraft launcher library             |    C#    |  .NET 6   |
-| [FuckTencentMeeting](https://github.com/Yoroion/FuckTencentMeeting) | Join WeMeet automatically              |    C#    |  .NET 6   |
-| [FuckMeetingPlus](https://github.com/Yoroion/FuckMeetingPlus) | Join WeMeet automatically with GUI     |    C#    |    WPF    |
-| [RoxyShortcuts](https://github.com/Yoroion/RoxyShortcuts)    | Create Windows 11 Start menu shortcuts |    C#    |    WPF    |
+| Project                                                      | Function                               | Language | Framework | Status |
+| ------------------------------------------------------------ | -------------------------------------- | :------: | :-------: | :-------: |
+| [Erisu](https://github.com/Yoroion/Erisu)                    | Minecraft launcher library             |    C#    |  .NET 6.0   | ✅ Dev |
+| [FuckTencentMeeting](https://github.com/Yoroion/FuckTencentMeeting) | Join WeMeet automatically              |    C#    |  .NET 6.0   | ✅ Dev
+| [FuckMeetingPlus](https://github.com/Yoroion/FuckMeetingPlus) | Join WeMeet automatically with GUI     |    C#    |    WPF    | ✅ Dev |
+| [RoxyShortcuts](https://github.com/Yoroion/RoxyShortcuts)    | Create Windows 11 Start menu shortcuts |    C#    |    WPF    | ❎ Achieved |
 
 ### 📫 Contact
 - Twitter: [yoroion](https://twitter.com/yoroion)
