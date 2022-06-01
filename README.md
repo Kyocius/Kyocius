@@ -13,7 +13,7 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,svelte)](https://skillicons.dev)
 
-### ⚔️ Works
+### ⚔️ Works (Partial)
 
 | Project                                                      | Function                               | Language | Framework | Status |
 | ------------------------------------------------------------ | -------------------------------------- | :------: | :-------: | :-------: |
