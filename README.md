@@ -13,9 +13,13 @@
 
 [![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,svelte)](https://skillicons.dev)
 
-### ⚔️ My works
+### ⚔️ Works
 
-
+| Project                                                      | Function                               | Language | Framework |
+| ------------------------------------------------------------ | -------------------------------------- | :------: | :-------: |
+| [FuckTencentMeeting](https://github.com/Yoroion/FuckTencentMeeting) | Join WeMeet automatically              |    C#    |  .NET 6   |
+| [FuckMeetingPlus](https://github.com/Yoroion/FuckMeetingPlus) | Join WeMeet automatically with GUI     |    C#    |    WPF    |
+| [RoxyShortcuts](https://github.com/Yoroion/RoxyShortcuts)    | Create Windows 11 Start menu shortcuts |    C#    |    WPF    |
 
 ### 📫 Contact
 - Twitter: [yoroion](https://twitter.com/yoroion)
