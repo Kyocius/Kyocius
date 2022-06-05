@@ -24,3 +24,4 @@ Willing to develop beautiful applications to make life easier.
 - Twitter: [yoroion](https://twitter.com/yoroion)
 - Telegram: [Yoroion](https://t.me/Yoroion)
 - QQ: 1738435753
+- Email: yoroion@qq.com
