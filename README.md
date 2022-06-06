@@ -13,7 +13,7 @@ I'm also a senior high school student from Tianjin, China.
 
 Willing to develop beautiful applications to make life easier.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&theme=radical&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yoroion&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ### 🛠️ Skills
 
