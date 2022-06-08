@@ -7,7 +7,7 @@ My name is Yoroion and I'm an amateurish developer coding just for fun.
 
 **C#** and **Kotlin** are my favorite programming languages.
 
-Currently learning **Windows UI** and **Blazor**.
+Currently learning **Windows UI 3** and **Blazor**.
  
 I'm also a senior high school student from Tianjin, China. 
 
