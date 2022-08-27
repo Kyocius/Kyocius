@@ -7,7 +7,7 @@ My name is Yoroion and I'm an amateurish developer coding just for fun.
 
 **C#** and **Kotlin** are my favorite programming languages.
 
-Currently learning **Windows UI 3** and **Jetpack**.
+Currently learning **Windows UI 3**.
  
 I'm also a senior high school student from Tianjin, China. 
 
@@ -22,6 +22,6 @@ Willing to develop beautiful applications to make life easier.
 ### 📫 Contact
 
 - Twitter: [yoroion](https://twitter.com/yoroion)
-- Telegram: [Yoroion4](https://t.me/Yoroion4)
+- Telegram: [Yoroion233](https://t.me/Yoroion233)
 - QQ: 1738435753
 - Email: yoroion@qq.com
