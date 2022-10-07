@@ -5,8 +5,6 @@
 # 🎉 Ciao!
 My name is Yoroion and I'm an amateurish developer coding just for fun.
 
-**C#** is now my favorite programming languages.
-
 Currently learning **Nim**.
  
 I'm also a senior high school student from Tianjin, China. 
@@ -17,7 +15,7 @@ Willing to develop beautiful applications to make life easier.
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,nim)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,python,nim)](https://skillicons.dev)
 
 ### 📫 Contact
 
