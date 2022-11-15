@@ -3,7 +3,7 @@
 </p>
 
 # 🎉 Ciao!
-My name is Yoroion and I'm an amateurish developer coding just for fun.
+My name is Yonable and I'm an amateurish developer coding just for fun.
 
 Currently learning **Nim**.
  
@@ -19,6 +19,6 @@ Willing to develop beautiful applications to make life easier.
 
 ### 📫 Contact
 
-- Twitter: [yoroion](https://twitter.com/yoroion)
-- Telegram: [Yoroion233](https://t.me/Yoroion233)
+- Twitter: [Yonable233](https://twitter.com/Yonable233)
+- Telegram: [Yonable233](https://t.me/Yonable233)
 - Email: yoroion@qq.com
