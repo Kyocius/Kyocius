@@ -3,11 +3,11 @@
 </p>
 
 # 🎉 Ciao!
-My name is Yonable and I'm an amateurish developer coding just for fun.
+Here is Yonable, an amateurish developer coding just for fun.
  
-I'm also a senior high school student from Tianjin, China. 
+Also a senior high school student from Tianjin, China. 
 
-Currently struggling with **Rust**.
+Yet another **C#** lover.
 
 Willing to develop beautiful applications to make life easier.
 
