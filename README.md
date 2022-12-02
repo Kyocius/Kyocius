@@ -2,7 +2,7 @@
 <img src="/header.svg" align="center" />
 </p>
 
-# 🎉 Ciao!
+# 🎉 Ciao
 Here is Yonable, an amateurish developer coding just for fun.
  
 Also a senior high school student from Tianjin, China. 
