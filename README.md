@@ -15,7 +15,7 @@ Willing to develop beautiful applications to make life easier.
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode,python)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,nim,visualstudio,vscode,)](https://skillicons.dev)
 
 ### 📫 Contact
 
