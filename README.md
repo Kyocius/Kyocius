@@ -7,7 +7,7 @@ Here is `Yonable`, an amateurish developer coding just for fun.
  
 Also a senior high school student from Tianjin, China. 
 
-Yet another **C#** preacher. M$ rules the world!
+Yet another **C#** preacher. M$ rules the world.
 
 Willing to be a sensible and gentle guy.
 
