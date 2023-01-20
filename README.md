@@ -1,6 +1,5 @@
-<p align="center">
-<img src="/header.svg" align="center" />
-</p>
+
+[![SVG Banners](https://svg-banners.vercel.app/api?type=luminance&text1=Yonab!e&width=800&height=200)](https://github.com/Akshay090/svg-banners)
 
 # 🎉 Ciao
 Here is `Yonable`, an amateurish developer coding just for fun.
