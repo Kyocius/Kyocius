@@ -1,5 +1,5 @@
 # 🎉 Bonjour
-I go by `Lukas Wu`, a.k.a. `Kyocius`, an amateurish developer coding just for fun.
+I go by `Kyrie Wu`, a.k.a. `Kyocius`, an amateurish developer coding just for fun.
  
 - Also a senior high school student from Tianjin, China. 
 - No diploma, no paper, no popular repo (perhaps it's temporarily).
