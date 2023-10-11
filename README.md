@@ -8,7 +8,7 @@ I go by `Kyrie Wu`, a.k.a. `Kyocius`, an amateurish developer.
 
 ### 🛠️ Skills
 
-[![My Skills](https://skillicons.dev/icons?i=cs,dotnet,kotlin,visualstudio,vscode)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,cs,dotnet,kotlin,visualstudio,vscode)](https://skillicons.dev)
 
 ### 📫 Contact
 
