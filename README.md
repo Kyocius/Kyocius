@@ -6,5 +6,4 @@
 
 ### 📫 Contact
 
-- Twitter: [Kyocius](https://twitter.com/kyocius04)
 - Email: <kyocius@foxmail.com>
