@@ -1,6 +1,6 @@
 ### About
 
-Major in Computer Science but also love music and literature.
+Major in Computer Science but also love R&B music and literature. Try hard not to be common.
 
 - Machine Learning & Deep Learning
 - Programming Language Theory
