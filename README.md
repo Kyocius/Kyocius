@@ -1,10 +1,8 @@
 ### About
 
-Major in Computer Science, struggling to face hard syllabus while I have made wrong decision. Perhaps I'll find a way out?
+Major in Computer Science, struggling to face hard syllabus while I have made wrong decision after June 25, 2023.
 
-- Machine Learning & Deep Learning
-- Programming Language Theory
-- Human-Computer Interaction
+- HPC & ML
 
 ### Skills
 
